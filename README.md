@@ -60,4 +60,5 @@ Step 5: The program will display whether it is a palindrome or not.
 - Checking numeric palindromes
 - Beginner-level Java practice project
 - Understanding string reversal logic
-- Useful for coding interviews  
+- Useful for coding intervie
+- ws  
